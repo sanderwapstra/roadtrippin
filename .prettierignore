@@ -1,0 +1,15 @@
+/.idea
+/.vscode
+.DS_Store
+
+.env
+
+# Ignore regular build files and vendor
+node_modules
+.next
+/vendor/
+/build/
+/package-lock.json
+
+# Ignore storybook build
+/public/styleguide

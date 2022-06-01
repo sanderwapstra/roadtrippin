@@ -1,0 +1,279 @@
+[
+    {
+        "title": "Nymindegab",
+        "description": "Soort wadden eiland",
+        "latitude": 55.81632263679794,
+        "longitude": 8.198881707237623
+    },
+    {
+        "title": "Hvide Sande",
+        "description": "Soort wadden eiland",
+        "latitude": 56.012423242101015,
+        "longitude": 8.117116554141148
+    },
+    {
+        "title": "Stevns Klint",
+        "description": "Krijtrots",
+        "latitude": 55.280124092718005,
+        "longitude": 12.445736587833185
+    },
+    {
+        "title": "Møns Klint",
+        "description": "Krijtrots",
+        "latitude": 54.984310203881634,
+        "longitude": 12.5436606653525
+    },
+    {
+        "title": "Kopenhagen",
+        "description": "",
+        "latitude": 55.67152808776202,
+        "longitude": 12.560597773487656
+    },
+
+    {
+        "title": "Louisiana museum",
+        "description": "",
+        "latitude": 55.969229789143256,
+        "longitude": 12.542336798484657
+    },
+    {
+        "title": "Helsingør",
+        "description": "",
+        "latitude": 56.03100741307096,
+        "longitude": 12.591621987573811
+    },
+    {
+        "title": "Frederiksborg slot",
+        "description": "",
+        "latitude": 55.934977199762564,
+        "longitude": 12.301283127318866
+    },
+    {
+        "title": "Dyrehavsbakken",
+        "description": "Pretpark 16e eeuw",
+        "latitude": 55.77531722983807,
+        "longitude": 12.577782127313098
+    },
+    {
+        "title": "Hornbæk",
+        "description": "Strand, kalm water",
+        "latitude": 56.09393217891057,
+        "longitude": 12.451406443318197
+    },
+    {
+        "title": "Lejre",
+        "description": "Openlucht museum",
+        "latitude": 55.60133045323629,
+        "longitude": 11.963756632289162
+    },
+
+    {
+        "title": "Møn",
+        "description": "",
+        "latitude": 54.98348463332828,
+        "longitude": 12.374461056774106
+    },
+    {
+        "title": "Fanefjord Kirke",
+        "description": "",
+        "latitude": 54.90128422504708,
+        "longitude": 12.151125098446274
+    },
+    {
+        "title": "Kong Asgers Høj",
+        "description": "Grafheuvel",
+        "latitude": 54.95716912185768,
+        "longitude": 12.140395498448303
+    },
+    {
+        "title": "Knuthenborg Safaripark",
+        "description": "Met eigen auto",
+        "latitude": 54.81167966654324,
+        "longitude": 11.510794669976539
+    },
+
+    {
+        "title": "Odense",
+        "description": "Hans Christian Andersen, Kasteel Egeskov",
+        "latitude": 55.39586791718931,
+        "longitude": 10.390260623660522
+    },
+    {
+        "title": "Assens",
+        "description": "Klein stadje aan het strand",
+        "latitude": 55.270865580640674,
+        "longitude": 9.888362536199498
+    },
+    {
+        "title": "Nyborg",
+        "description": "Klein stadje aan het strand",
+        "latitude": 55.32428370585776,
+        "longitude": 10.799186106135949
+    },
+    {
+        "title": "Kerteminde",
+        "description": "Klein stadje aan het strand",
+        "latitude": 55.50420535765093,
+        "longitude": 10.722330664681822
+    },
+    {
+        "title": "Hindsholm",
+        "description": "Fantastische Oostzee met geweldige rotskusten.",
+        "latitude": 55.52902528659384,
+        "longitude": 10.652793743087662
+    },
+    {
+        "title": "Faaborg",
+        "description": "Klein stadje aan het strand",
+        "latitude": 55.1043770505976,
+        "longitude": 10.22869826338778
+    },
+    {
+        "title": "Marstal",
+        "description": "Klein eiland",
+        "latitude": 54.856142549367064,
+        "longitude": 10.521736396596278
+    },
+    {
+        "title": "Ærøskøbing",
+        "description": "Klein eiland",
+        "latitude": 54.890636003777345,
+        "longitude": 10.412406727281352
+    },
+    {
+        "title": "Fanø",
+        "description": "Waddeneiland, via veerboot Esbjerg, zeehonden, Nationaal Park Vadehavet",
+        "latitude": 55.412923155261645,
+        "longitude": 8.413998165175625
+    },
+    {
+        "title": "Jelling",
+        "description": "Runenstenen 10de eeuw",
+        "latitude": 55.75369601593631,
+        "longitude": 9.417203607902538
+    },
+    {
+        "title": "Aarhus",
+        "description": "Aros Kunstmuseum",
+        "latitude": 56.14628703540847,
+        "longitude": 10.201764071978497
+    },
+    {
+        "title": "Fyrkat",
+        "description": "Vikingfort",
+        "latitude": 56.62500690939393,
+        "longitude": 9.772429975401424
+    },
+    {
+        "title": "Skagen",
+        "description": "Sonderstrand, kunstenaars, kalm water",
+        "latitude": 57.75141559912614,
+        "longitude": 10.604865778425411
+    },
+
+    {
+        "title": "Ribe",
+        "description": "Oudste stad, strand waar je met de auto op kan rijden",
+        "latitude": 55.32700176943456,
+        "longitude": 8.774672078587296
+    },
+    {
+        "title": "Legoland",
+        "description": "",
+        "latitude": 55.735520307804094,
+        "longitude": 9.126804419075508
+    },
+    {
+        "title": "Ebeltoft",
+        "description": "",
+        "latitude": 56.19628484441379,
+        "longitude": 10.677527184935725
+    },
+    {
+        "title": "Ringkøbing",
+        "description": "",
+        "latitude": 56.08876522987899,
+        "longitude": 8.259601542400848
+    },
+    {
+        "title": "Vejle",
+        "description": "",
+        "latitude": 55.711355796170125,
+        "longitude": 9.536346390239256
+    },
+    {
+        "title": "Rømø",
+        "description": "Strand",
+        "latitude": 55.1393243963966,
+        "longitude": 8.51445788781461
+    },
+    {
+        "title": "Esbjerg",
+        "description": "Vanaf hier ook met boot naar Fanø",
+        "latitude": 55.476995814231394,
+        "longitude": 8.460387361715139
+    },
+
+    {
+        "title": "Grenen",
+        "description": "Oostzee en Boordzee komen samen",
+        "latitude": 57.743747723641334,
+        "longitude": 10.645320793578541
+    },
+    {
+        "title": "Lindholm Hoje",
+        "description": "historische begraafplaats",
+        "latitude": 57.07726594745209,
+        "longitude": 9.912010000579423
+    },
+    {
+        "title": "Limfjord",
+        "description": "",
+        "latitude": 56.89369534260297,
+        "longitude": 8.951386373955698
+    },
+    {
+        "title": "Aalborg",
+        "description": "",
+        "latitude": 57.04292243461549,
+        "longitude": 9.905695279184961
+    },
+    {
+        "title": "Hirtshals",
+        "description": "Natuur",
+        "latitude": 57.58659418228682,
+        "longitude": 9.963583020724613
+    },
+    {
+        "title": "Rabjerg Mile",
+        "description": "Enorme zandduin",
+        "latitude": 57.649497244989774,
+        "longitude": 10.409870927381496
+    },
+    {
+        "title": "Den tilsandede kirke",
+        "description": "",
+        "latitude": 57.713697789272516,
+        "longitude": 10.550624727383868
+    },
+
+    {
+        "title": "Safari Givskud Zoo",
+        "description": "",
+        "latitude": 55.80826630978868,
+        "longitude": 9.351652698478842
+    },
+    {
+        "title": "Marielyst",
+        "description": "Ondiep, na overtocht Duitsland",
+        "latitude": 54.69009942086984,
+        "longitude": 11.970184666921664
+    },
+
+    {
+        "title": "Nysted",
+        "description": "Goede eerste stop, strand, koopmansstad, oud, vuurtoren",
+        "latitude": 54.66481633813069,
+        "longitude": 11.732894794641075
+    }
+]
